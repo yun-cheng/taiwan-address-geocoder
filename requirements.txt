@@ -1,0 +1,7 @@
+ipykernel
+black
+python-dotenv
+requests
+beautifulsoup4
+selenium
+pandas

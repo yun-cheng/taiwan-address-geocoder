@@ -1,0 +1,52 @@
+{
+    "editor_theme": "Merbivore",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet2",
+            "TabSet1",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Build",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Presentations"
+        ],
+        "hiddenTabSet": [
+            "Connections",
+            "VCS",
+            "Tutorial",
+            "Viewer",
+            "Presentations"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": false,
+        "additional_source_columns": 0
+    },
+    "jobs_tab_visibility": "shown",
+    "save_workspace": "never",
+    "load_workspace": false,
+    "auto_save_on_blur": true,
+    "source_with_echo": true,
+    "show_invisibles": true,
+    "syntax_color_console": true,
+    "scroll_past_end_of_document": true,
+    "auto_append_newline": true,
+    "strip_trailing_whitespace": true,
+    "default_encoding": "UTF-8",
+    "initial_working_directory": "/workspace",
+    "show_doc_outline_rmd": true,
+    "knit_working_dir": "project",
+    "soft_wrap_r_files": true,
+    "rainbow_parentheses": true,
+    "code_completion_characters": 2
+}
